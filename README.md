@@ -18,8 +18,16 @@ pip install -r requirements.txt
 ```
 Then navigate to the folder containing the manage.py file
 ```sh
-cd interview_scheduler
+cd hr_portal
 ```
+Do the makemigrations and migrations
+```sh
+python manage.py makemigrations
+```
+```sh
+python manage.py migrate
+```
+
 Run the server using the command
 ```sh
 python manage.py runserver
