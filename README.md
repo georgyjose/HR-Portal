@@ -10,7 +10,7 @@ source venv/bin/activate
 ```
 Install the requirements using
 ```sh
-pip install -r requ.txt
+pip install -r requirements.txt
 ```
 Then navigate to the folder containing the manage.py file
 ```sh
