@@ -1,5 +1,9 @@
 # HR-Portal
 
+After cloning the repo, navigate into the project.
+```sh
+cd HR-Portal
+```
 To run this project, it is recommended to run it inside virtual environment. You can create a virtual environment using the following command.virtual
 ```sh
 python3 -m venv venv
